@@ -1,6 +1,6 @@
 # 🏢 IKEA India — Organizational Alignment Analysis (Deloitte-Marzo 9S Matrix)
 
-![IKEA Banner](https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg)
+![IKEA Banner](https://media.tegna-media.com/assets/WTIC/images/d0e11bfd-58d1-42bf-b5bd-acc0804be232/d0e11bfd-58d1-42bf-b5bd-acc0804be232_1140x641.jpg)
 
 > 🎯 A deep-dive organizational diagnosis of IKEA India’s challenges using the **Deloitte–Marzo 9S Model** — identifying structural, cultural, and strategic misalignments and proposing actionable fixes for sustainable growth.
 
@@ -41,7 +41,7 @@ This repository examines **how global processes, cultural gaps, and decision bot
 
 📊 The **Deloitte–Marzo 9S Matrix** helps assess how each element supports or hinders performance.
 
-![9S Model Diagram](https://upload.wikimedia.org/wikipedia/commons/7/7e/McKinsey_7S_model_diagram.svg)
+![9S Model Diagram](https://cdn.shopify.com/s/files/1/0662/0286/1822/products/mckinsey-7s-model-powerpoint-templates-slide-4.webp?v=1663481376&width=1445)
 
 ---
 
@@ -98,7 +98,7 @@ This repository examines **how global processes, cultural gaps, and decision bot
 ## 🎨 Visual Summary
 
 ### Alignment Snapshot
-![Heatmap](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-balance-business-flaticons-lineal-color-flat-icons.png)
+![Heatmap](https://th.bing.com/th/id/R.c876b670b40324ecb6178058f4be023b?rik=sf14wpuRl%2fDxgQ&pid=ImgRaw&r=0)
 
 | High Risk (🔴) | Moderate (🟠) | Stable (🟢) |
 |----------------|---------------|-------------|
